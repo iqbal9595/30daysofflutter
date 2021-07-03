@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // ignore: unused_local_variable
-       return MaterialApp(
+      return MaterialApp(
       home: HomePage(),
     );
   }
